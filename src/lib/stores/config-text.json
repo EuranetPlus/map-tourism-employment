@@ -6,7 +6,7 @@
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "This indicator measures the total contribution of the tourism ecosystem to employment. It is obtained by dividing the total employment in the tourism ecosystem by the total employment in the whole economy, in the respective country",
+  "textNote": "The data cover the following tourism activities: Air transport, including passenger and freight transport by airlines; Accommodation ; and Travel agencies, tour operators and other reservation services.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/nama_10_a10_e",
   "textCountryClick": "Click for more info",
