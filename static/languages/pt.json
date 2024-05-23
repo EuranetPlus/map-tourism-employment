@@ -1,5 +1,5 @@
 {
-  "heading": "A percentagem de emprego no setor turístico na UE27 em 2022",
+  "heading": "A percentagem de emprego no setor turístico na UE27 em 2019",
   "subheading": "Em toda a UE27, cerca de 2,54% de todos os trabalhadores trabalham nas indústrias do turismo selecionadas. Chipre lidera com 9,15% e a Polónia tem, com apenas 1,01%, a percentagem mais baixa de trabalhadores nas indústrias do turismo selecionadas.",
   "legend1": "Não há dados disponíveis",
   "tooltip1": "do total de funcionários",
@@ -10,22 +10,8 @@
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang= pt",
   "textCountryClick": "Clique para mais informações",
-  "extraInfoText_BE": "Com a necessidade de unanimidade a causar estrangulamentos burocráticos em muitas áreas, existe uma certa lógica em avançar para a votação por maioria qualificada sempre que possível. Na prática, uma maioria qualificada ocorre quando 15 dos 27 Estados-Membros votam a favor de algo, desde que juntos representem mais de 65 por cento dos 450 milhões de cidadãos da UE.",
-  "extraInfoLink_BE": "Consulte Mais informação",
-  "extraInfoText_DE": "Provavelmente não é coincidência que, apenas dois dias depois, a Comissão Europeia tenha anunciado que iria finalmente acionar o mecanismo de condicionalidade, que liga o pagamento de fundos da UE ao respeito pelo Estado de direito. Budapeste enfrenta críticas devido às restrições à liberdade dos meios de comunicação social, aos conflitos de interesses e à corrupção.",
-  "extraInfoLink_DE": "Consulte Mais informação",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "Neste contexto, o governo búlgaro criou uma nova unidade de monitorização dos meios de comunicação social. A nova unidade foi concebida para monitorizar todas as formas de meios de comunicação social em busca de desinformação direcionada, mas – ao contrário do Conselho independente para os Meios de Comunicação Eletrónicos do país – não tem o poder de regulamentar ou sancionar. E nem deveria, sublinha Bozhanov numa entrevista à Rádio Nacional Búlgara.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Gašper Dovžan, secretário de Estado do Ministério dos Negócios Estrangeiros da Eslovénia e membro do comité da Conferência, afirma que a Eslovénia não se esquiva certamente de decisões corajosas nem rejeita a possibilidade de uma transição para maiorias qualificadas. No entanto, ele acredita que ainda há lugar para a tomada de decisões por consenso.",
-  "extraInfoLink_IT": "Mais informações",
-  "extraInfoText_LU": "No entanto, o eurodeputado luxemburguês Marc Angel está convencido de que são absolutamente necessárias alterações ao Tratado – não só para tornar os procedimentos de tomada de decisão menos complicados, mas também para alargar a esfera de competência da UE. Ele afirma, numa entrevista à emissora nacional luxemburguesa 100,7, que os cidadãos da UE pediram claramente isto durante o processo da Conferência.",
-  "extraInfoLink_LU": "Consulte Mais informação",
-  "extraInfoText_PL": "Liutauras Gudzinskas, professor de ciências políticas na Universidade de Vilnius, disse a Žinių Radijas que, embora a proposta da Comissão Europeia para reforçar o pluralismo e a independência dos meios de comunicação social e protegê-los de interferências políticas ou empresariais possa ser uma ferramenta preventiva útil em muitos países, é provável que tarde demais para a Hungria.",
-  "extraInfoLink_PL": "Mais Informações",
-  "extraInfoText_RO": "Embora seja o Dia Mundial da Liberdade de Imprensa a 3 de Maio, a Lituânia celebra a liberdade de imprensa todos os anos a 7 de Maio – porque esta data marca o fim da proibição czarista à publicação e distribuição de livros em lituano.",
-  "extraInfoLink_RO": "Verifique isso",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "extraInfoText_EE": "nenhum valor fornecido para indústrias de turismo selecionadas",
+  "extraInfoText_FR": "sem transporte aéreo",
+  "extraInfoText_IE": "sem transporte aéreo",
+  "extraInfoText_PL": "sem transporte aéreo"
 }
