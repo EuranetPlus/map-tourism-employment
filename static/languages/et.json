@@ -1,17 +1,17 @@
 {
-  "heading": "Tööhõive osakaal turismisektoris EL27s 2019. aastal",
-  "subheading": "Terves EL27s töötab valitud turismitööstuses kuni 2,54% kõigist töötajatest. Küpros juhib 9,15% ja Poola on vaid 1,01% madalaim töötajate osakaal valitud turismisektorites.",
-  "legend1": "Andmed puuduvad",
+  "heading": "Turismisektori tööhõive osakaal EL 27-s 2019. aastal",
+  "subheading": "Kogu EL 27-s töötab valitud turismisektorites koguni 2,54% kõigist töötajatest. Küpros on juhtival kohal 9,15%-ga ja Poola on vaid 1,01%-ga valitud turismisektorite töötajate madalaim osakaal.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "töötajate koguarvust",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Andmed hõlmavad järgmisi turismitegevusi: Õhutransport, sh reisijate- ja kaubavedu lennufirmade poolt; Majutus ; ja Reisibürood, reisikorraldajad ja muud broneerimisteenused. kohta andmed puuduvad",
+  "textNoteDescription": "Märkus",
+  "textNote": "Andmed hõlmavad järgmisi turismitegevusi: õhutransport, sh reisijate- ja kaubavedu lennufirmade poolt; majutus; ning reisibürood, reisikorraldajad ja muud broneerimisteenused.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang= et",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake",
-  "extraInfoText_EE": "valitud turismisektorite jaoks pole väärtusi antud",
-  "extraInfoText_FR": "ilma lennutranspordita",
-  "extraInfoText_IE": "ilma lennutranspordita",
-  "extraInfoText_PL": "ilma lennutranspordita"
+  "extraInfoText_EE": "valitud turismitööstuse kohta pole väärtusi esitatud",
+  "extraInfoText_FR": "ilma õhutranspordita",
+  "extraInfoText_IE": "ilma õhutranspordita",
+  "extraInfoText_PL": "ilma õhutranspordita"
 }

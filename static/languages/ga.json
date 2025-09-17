@@ -1,17 +1,17 @@
 {
-  "heading": "An sciar fostaíochta san earnáil turasóireachta san AE27 in 2019",
-  "subheading": "San AE27 ar fad tá suas le 2.54% de na fostaithe go léir ag obair sna tionscail turasóireachta roghnaithe. Tá an Chipir chun tosaigh le 9.15% agus níl ach 1.01% ag an bPolainn ar an sciar is ísle fostaithe sna tionscail turasóireachta roghnaithe.",
+  "heading": "Sciar na fostaíochta san earnáil turasóireachta san AE27 in 2019",
+  "subheading": "San AE27 ar fad, tá suas le 2.54% de na fostaithe uile ag obair sna tionscail turasóireachta roghnaithe. Tá an Chipir chun tosaigh le 9.15% agus tá an sciar is ísle d’fhostaithe sna tionscail turasóireachta roghnaithe ag an bPolainn le 1.01% amháin.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "na bhfostaithe iomlána",
+  "tooltip1": "d'iomlán na bhfostaithe",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Clúdaíonn na sonraí na gníomhaíochtaí turasóireachta seo a leanas: Aeriompar, lena n-áirítear iompar paisinéirí agus lasta ag aerlínte; Lóistín ; agus Gníomhaireachtaí taistil, tionscnóirí turas agus seirbhísí áirithinte eile. Níl aon sonraí tugtha le haghaidh",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang= ga",
+  "textNote": "Clúdaíonn na sonraí na gníomhaíochtaí turasóireachta seo a leanas: Aeriompar, lena n-áirítear iompar paisinéirí agus lastais ag aerlínte; Cóiríocht; agus Gníomhaireachtaí taistil, oibreoirí turas agus seirbhísí áirithinte eile.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais",
-  "extraInfoText_EE": "ní thugtar aon luachanna do thionscail roghnaithe turasóireachta",
-  "extraInfoText_FR": "gan aeriompar",
-  "extraInfoText_IE": "gan aeriompar",
-  "extraInfoText_PL": "gan aeriompar"
+  "extraInfoText_EE": "gan aon luachanna tugtha do thionscail turasóireachta roghnaithe",
+  "extraInfoText_FR": "gan iompar aeir",
+  "extraInfoText_IE": "gan iompar aeir",
+  "extraInfoText_PL": "gan iompar aeir"
 }

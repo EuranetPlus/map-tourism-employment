@@ -1,17 +1,17 @@
 {
-  "heading": "A turisztikai ágazatban foglalkoztatottak aránya az EU-27-ben 2019-ben",
-  "subheading": "Az EU-27 egészében az összes alkalmazott 2,54%-a dolgozik a kiválasztott turisztikai ágazatokban. Ciprus vezet 9,15%-kal, Lengyelországban pedig mindössze 1,01%-kal a legalacsonyabb az alkalmazottak aránya a kiválasztott turisztikai ágazatokban.",
-  "legend1": "Nincs elérhető adat",
+  "heading": "A foglalkoztatás aránya a turisztikai ágazatban az EU27-ben 2019-ben",
+  "subheading": "Az EU27 teljes területén az összes alkalmazott 2,54%-a dolgozik a kiválasztott turisztikai ágazatokban. Ciprus vezet 9,15%-kal, Lengyelországban pedig a legalacsonyabb a kiválasztott turisztikai ágazatokban foglalkoztatottak aránya, mindössze 1,01%-kal.",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "az összes alkalmazottból",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
-  "textNote": "Az adatok a következő turisztikai tevékenységekre terjednek ki: Légi szállítás, beleértve a légitársaságok által végzett személy- és teherszállítást; Szállás ; és Utazási irodák, utazásszervezők és egyéb foglalási szolgáltatások. Nincs adat megadva ehhez",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Az adatok a következő turisztikai tevékenységeket fedik le: légi közlekedés, beleértve a légitársaságok által végzett személy- és áruszállítást; szálláshely-szolgáltatás; valamint utazási irodák, utazásszervezők és egyéb foglalási szolgáltatások.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang= hu",
-  "textCountryClick": "További információért kattintson",
-  "extraInfoText_EE": "nincsenek megadva értékek a kiválasztott turisztikai ágazatokhoz",
-  "extraInfoText_FR": "légi szállítás nélkül",
-  "extraInfoText_IE": "légi szállítás nélkül",
-  "extraInfoText_PL": "légi szállítás nélkül"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
+  "textCountryClick": "Kattintson a további információkért",
+  "extraInfoText_EE": "nincsenek megadva értékek a kiválasztott turisztikai ágazatokra vonatkozóan",
+  "extraInfoText_FR": "légi közlekedés nélkül",
+  "extraInfoText_IE": "légi közlekedés nélkül",
+  "extraInfoText_PL": "légi közlekedés nélkül"
 }
