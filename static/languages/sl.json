@@ -1,17 +1,13 @@
 {
-  "heading": "Delež zaposlenosti v turističnem sektorju v EU-27 v letu 2019",
-  "subheading": "V celotni EU27 kar 2,54 % vseh zaposlenih dela v izbranih turističnih panogah. Ciper vodi z 9,15 %, Poljska pa ima z le 1,01 % najnižji delež zaposlenih v izbranih turističnih panogah.",
+  "heading": "Delež zaposlenosti v turističnem sektorju v EU-27 v letu 2021",
+  "subheading": "V celotni EU27 kar 2,44 % vseh zaposlenih dela v izbranih turističnih panogah. Ciper vodi s 7,7 %, Poljska pa ima z le 1 % najnižji delež zaposlenih v izbranih turističnih panogah.",
   "legend1": "Ni na voljo podatkov",
   "tooltip1": "vseh zaposlenih",
   "textSourceDescription": "Vir",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Opomba",
-  "textNote": "Podatki zajemajo naslednje turistične dejavnosti: zračni promet, vključno s potniškim in tovornim prevozom z letalskimi prevozniki; nastanitve; ter potovalne agencije, organizatorje potovanj in druge rezervacijske storitve.",
+  "textNote": "Podatki zajemajo naslednje turistične dejavnosti: zračni promet, vključno s potniškim in tovornim prometom letalskih družb, nastanitve ter potovalne agencije, organizatorje potovanj in druge rezervacijske storitve. Za Estonijo, Luksemburg, Nizozemsko, Slovenijo in Grčijo podatki niso navedeni.",
   "textDataAccess": "Dostop do podatkov",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=sl, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=sl",
-  "textCountryClick": "Kliknite za več informacij",
-  "extraInfoText_EE": "za izbrane turistične panoge niso navedene vrednosti",
-  "extraInfoText_FR": "brez zračnega prevoza",
-  "extraInfoText_IE": "brez zračnega prevoza",
-  "extraInfoText_PL": "brez zračnega prevoza"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
+  "textCountryClick": "Kliknite za več informacij"
 }

@@ -1,17 +1,13 @@
 {
-  "heading": "Udział zatrudnienia w sektorze turystycznym w krajach UE27 w 2019 r.",
-  "subheading": "W całej UE27 aż 2,54% wszystkich pracowników pracuje w wybranych branżach turystycznych. Cypr jest liderem z 9,15%, a Polska ma najniższy odsetek pracowników w wybranych branżach turystycznych (tylko 1,01%).",
+  "heading": "Udział zatrudnienia w sektorze turystycznym w krajach UE27 w 2021 r.",
+  "subheading": "W całej UE27 aż 2,44% wszystkich pracowników pracuje w wybranych branżach turystycznych. Cypr jest liderem z 7,7%, a Polska ma najniższy odsetek pracowników w wybranych branżach turystycznych, wynoszący zaledwie 1%.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "wszystkich pracowników",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Notatka",
-  "textNote": "Dane obejmują następujące rodzaje działalności turystycznej: transport lotniczy, w tym przewóz pasażerów i towarów liniami lotniczymi; zakwaterowanie; biura podróży, organizatorzy wycieczek i inne usługi rezerwacyjne.",
+  "textNote": "Dane obejmują następujące rodzaje działalności turystycznej: transport lotniczy, w tym przewóz pasażerów i towarów liniami lotniczymi, zakwaterowanie oraz biura podróży, organizatorzy wycieczek i inne usługi rezerwacyjne. Brak danych dla Estonii, Luksemburga, Holandii, Słowenii i Grecji.",
   "textDataAccess": "Dostęp do danych",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Kliknij, aby uzyskać więcej informacji",
-  "extraInfoText_EE": "nie podano wartości dla wybranych branż turystycznych",
-  "extraInfoText_FR": "bez transportu lotniczego",
-  "extraInfoText_IE": "bez transportu lotniczego",
-  "extraInfoText_PL": "bez transportu lotniczego"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
+  "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

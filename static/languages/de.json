@@ -1,17 +1,13 @@
 {
-  "heading": "Der Beschäftigungsanteil im Tourismussektor in der EU27 im Jahr 2019",
-  "subheading": "In der gesamten EU27 arbeiten ganze 2,54 % aller Beschäftigten in den ausgewählten Tourismusbranchen. Zypern liegt mit 9,15 % an der Spitze und Polen weist mit nur 1,01 % den niedrigsten Anteil an Beschäftigten in den ausgewählten Tourismusbranchen auf.",
+  "heading": "Der Beschäftigungsanteil im Tourismussektor in der EU27 im Jahr 2021",
+  "subheading": "In der gesamten EU27 arbeiten 2,44 % aller Beschäftigten in den ausgewählten Tourismusbranchen. Zypern liegt mit 7,7 % an der Spitze und Polen weist mit nur 1 % den niedrigsten Anteil an Beschäftigten in den ausgewählten Tourismusbranchen auf.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "der gesamten Mitarbeiter",
   "textSourceDescription": "Quelle",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Daten decken die folgenden Tourismusaktivitäten ab: Luftverkehr, einschließlich Personen- und Güterverkehr durch Fluggesellschaften; Beherbergung; sowie Reisebüros, Reiseveranstalter und andere Reservierungsdienste.",
+  "textNote": "Die Daten decken folgende Tourismusaktivitäten ab: Luftverkehr, einschließlich Personen- und Güterverkehr durch Fluggesellschaften, Beherbergung sowie Reisebüros, Reiseveranstalter und andere Reservierungsdienste. Für Estland, Luxemburg, die Niederlande, Slowenien und Griechenland liegen keine Daten vor.",
   "textDataAccess": "Zugriff auf die Daten",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen",
-  "extraInfoText_EE": "Für ausgewählte Tourismusbranchen sind keine Werte angegeben",
-  "extraInfoText_FR": "ohne Lufttransport",
-  "extraInfoText_IE": "ohne Lufttransport",
-  "extraInfoText_PL": "ohne Lufttransport"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

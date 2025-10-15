@@ -1,17 +1,13 @@
 {
-  "heading": "Matkailualan työllisyyden osuus EU27:ssä vuonna 2019",
-  "subheading": "Koko EU27-maassa jopa 2,54 % kaikista työntekijöistä työskentelee valituilla matkailualoilla. Kypros on johtava 9,15 %:lla ja Puolassa on vain 1,01 %:lla pienin osuus valituilla matkailualoilla työskentelevistä työntekijöistä.",
+  "heading": "Matkailualan työllisyyden osuus EU27:ssä vuonna 2021",
+  "subheading": "Koko EU27-maassa jopa 2,44 % kaikista työntekijöistä työskentelee valituilla matkailualoilla. Kypros on johtava 7,7 %:n osuudella, ja Puolassa on vain 1 %:n osuus valituilla matkailualoilla työskentelevistä työntekijöistä.",
   "legend1": "Ei tietoja saatavilla",
   "tooltip1": "kaikista työntekijöistä",
   "textSourceDescription": "Lähde",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Huomautus",
-  "textNote": "Tiedot kattavat seuraavat matkailutoiminnot: lentoliikenne, mukaan lukien lentoyhtiöiden suorittama matkustaja- ja rahtiliikenne; majoitus; sekä matkatoimistot, matkanjärjestäjät ja muut varauspalvelut.",
+  "textNote": "Tiedot kattavat seuraavat matkailutoiminnot: lentoliikenne, mukaan lukien lentoyhtiöiden matkustaja- ja rahtikuljetukset, majoitus sekä matkatoimistot, matkanjärjestäjät ja muut varauspalvelut. Tietoja ei ole annettu Virosta, Luxemburgista, Alankomaista, Sloveniasta ja Kreikasta.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Klikkaa saadaksesi lisätietoja",
-  "extraInfoText_EE": "ei annettu arvoja valituille matkailutoimialoille",
-  "extraInfoText_FR": "ilman lentokuljetusta",
-  "extraInfoText_IE": "ilman lentokuljetusta",
-  "extraInfoText_PL": "ilman lentokuljetusta"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

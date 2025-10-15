@@ -1,17 +1,13 @@
 {
-  "heading": "Podiel zamestnanosti v sektore cestovného ruchu v EÚ27 v roku 2019",
-  "subheading": "V celej EÚ27 pracuje vo vybraných odvetviach cestovného ruchu až 2,54 % všetkých zamestnancov. Cyprus vedie s 9,15 % a Poľsko má s iba 1,01 % najnižší podiel zamestnancov vo vybraných odvetviach cestovného ruchu.",
+  "heading": "Podiel zamestnanosti v sektore cestovného ruchu v EÚ27 v roku 2021",
+  "subheading": "V celej EÚ27 pracuje vo vybraných odvetviach cestovného ruchu až 2,44 % všetkých zamestnancov. Cyprus vedie so 7,7 % a Poľsko má s iba 1 % najnižší podiel zamestnancov vo vybraných odvetviach cestovného ruchu.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "z celkového počtu zamestnancov",
   "textSourceDescription": "Zdroj",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Poznámka",
-  "textNote": "Údaje sa vzťahujú na tieto aktivity v oblasti cestovného ruchu: letecká doprava vrátane osobnej a nákladnej dopravy leteckými spoločnosťami; ubytovanie; a cestovné kancelárie, cestovné kancelárie a iné rezervačné služby.",
+  "textNote": "Údaje sa vzťahujú na tieto aktivity v oblasti cestovného ruchu: letecká doprava vrátane osobnej a nákladnej dopravy leteckými spoločnosťami, ubytovanie a cestovné kancelárie, cestovné kancelárie a iné rezervačné služby. Za Estónsko, Luxembursko, Holandsko, Slovinsko a Grécko neboli poskytnuté žiadne údaje.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Kliknite pre viac informácií",
-  "extraInfoText_EE": "pre vybrané odvetvia cestovného ruchu nie sú uvedené žiadne hodnoty",
-  "extraInfoText_FR": "bez leteckej dopravy",
-  "extraInfoText_IE": "bez leteckej dopravy",
-  "extraInfoText_PL": "bez leteckej dopravy"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
+  "textCountryClick": "Kliknite pre viac informácií"
 }

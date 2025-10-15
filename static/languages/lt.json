@@ -1,17 +1,13 @@
 {
-  "heading": "Turizmo sektoriaus užimtumo dalis ES 27 valstybėse narėse 2019 m.",
-  "subheading": "Visoje ES27 net 2,54 % visų darbuotojų dirba pasirinktose turizmo pramonės šakose. Kipras pirmauja su 9,15 %, o Lenkijoje dirba mažiausia darbuotojų dalis pasirinktose turizmo pramonės šakose – tik 1,01 %.",
+  "heading": "Turizmo sektoriaus užimtumo dalis ES 27 valstybėse narėse 2021 m.",
+  "subheading": "Visoje ES27 net 2,44 % visų darbuotojų dirba pasirinktose turizmo pramonės šakose. Kipras pirmauja su 7,7 %, o Lenkijoje darbuotojų dalis pasirinktose turizmo pramonės šakose yra mažiausia – tik 1 %.",
   "legend1": "Nėra duomenų",
   "tooltip1": "visų darbuotojų",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Eurostatas",
+  "textSource": "Eurostatas (2021 m.)",
   "textNoteDescription": "Pastaba",
-  "textNote": "Duomenys apima šią turizmo veiklą: oro transportą, įskaitant keleivių ir krovinių vežimą oro linijomis; apgyvendinimą; ir kelionių agentūras, kelionių organizatorius ir kitas rezervavimo paslaugas.",
+  "textNote": "Duomenys apima šią turizmo veiklą: oro transportą, įskaitant keleivių ir krovinių vežimą oro linijomis, apgyvendinimą ir kelionių agentūras, kelionių organizatorius ir kitas rezervavimo paslaugas. Duomenų apie Estiją, Liuksemburgą, Nyderlandus, Slovėniją ir Graikiją nepateikta.",
   "textDataAccess": "Prieiga prie duomenų",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos",
-  "extraInfoText_EE": "pasirinktų turizmo pramonės šakų vertės nepateiktos",
-  "extraInfoText_FR": "be oro transporto",
-  "extraInfoText_IE": "be oro transporto",
-  "extraInfoText_PL": "be oro transporto"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
+  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

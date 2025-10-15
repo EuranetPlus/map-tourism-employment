@@ -1,17 +1,13 @@
 {
-  "heading": "Nodarbinātības īpatsvars tūrisma nozarē ES 27 valstīs 2019. gadā",
-  "subheading": "Visā ES27 valstīs pat 2,54 % no visiem darbiniekiem strādā izvēlētajās tūrisma nozarēs. Kipra ir līdere ar 9,15 %, bet Polijā ir tikai 1,01 % viszemākais darbinieku īpatsvars izvēlētajās tūrisma nozarēs.",
+  "heading": "Nodarbinātības īpatsvars tūrisma nozarē ES 27 valstīs 2021. gadā",
+  "subheading": "Visā ES27 valstīs pat 2,44 % no visiem darbiniekiem strādā izvēlētajās tūrisma nozarēs. Kipra ir līdere ar 7,7 %, bet Polijā ir tikai 1 % viszemākā darbinieku daļa izvēlētajās tūrisma nozarēs.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "no kopējā darbinieku skaita",
   "textSourceDescription": "Avots",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Piezīme",
-  "textNote": "Dati aptver šādas tūrisma darbības: gaisa transportu, tostarp pasažieru un kravu pārvadājumus ar aviokompānijām; izmitināšanu; un ceļojumu aģentūras, tūrisma operatori un citi rezervēšanas pakalpojumi.",
+  "textNote": "Dati aptver šādas tūrisma darbības: gaisa transportu, tostarp pasažieru un kravu pārvadājumus ar aviokompānijām, izmitināšanu un ceļojumu aģentūras, tūrisma operatori un citi rezervēšanas pakalpojumi. Nav sniegti dati par Igauniju, Luksemburgu, Nīderlandi, Slovēniju un Grieķiju.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju",
-  "extraInfoText_EE": "nav norādītas vērtības izvēlētajām tūrisma nozarēm",
-  "extraInfoText_FR": "bez gaisa transporta",
-  "extraInfoText_IE": "bez gaisa transporta",
-  "extraInfoText_PL": "bez gaisa transporta"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

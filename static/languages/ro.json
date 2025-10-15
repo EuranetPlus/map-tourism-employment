@@ -1,17 +1,13 @@
 {
-  "heading": "Ponderea ocupării forței de muncă în sectorul turistic în UE-27 în 2019",
-  "subheading": "În întreaga UE-27, până la 2,54% din totalul angajaților lucrează în industriile turistice selectate. Cipru este lider cu 9,15%, iar Polonia are, cu doar 1,01%, cea mai mică pondere de angajați în industriile turistice selectate.",
+  "heading": "Ponderea ocupării forței de muncă în sectorul turistic în UE-27 în 2021",
+  "subheading": "În întreaga UE-27, până la 2,44% din totalul angajaților lucrează în industriile turistice selectate. Cipru este lider cu 7,7%, iar Polonia are, cu doar 1%, cea mai mică pondere de angajați în industriile turistice selectate.",
   "legend1": "Nu sunt disponibile date",
   "tooltip1": "din totalul angajaților",
   "textSourceDescription": "Sursă",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Nota",
-  "textNote": "Datele acoperă următoarele activități turistice: transport aerian, inclusiv transportul de pasageri și de mărfuri de către companiile aeriene; cazare; și agenții de turism, operatori turistici și alte servicii de rezervare.",
+  "textNote": "Datele acoperă următoarele activități turistice: transport aerian, inclusiv transportul de pasageri și mărfuri de către companiile aeriene, cazare și agenții de turism, operatori turistici și alte servicii de rezervare. Nu sunt furnizate date pentru Estonia, Luxemburg, Țările de Jos, Slovenia și Grecia.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Faceți clic pentru mai multe informații",
-  "extraInfoText_EE": "Nu sunt furnizate valori pentru anumite industrii turistice",
-  "extraInfoText_FR": "fără transport aerian",
-  "extraInfoText_IE": "fără transport aerian",
-  "extraInfoText_PL": "fără transport aerian"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

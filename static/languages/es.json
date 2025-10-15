@@ -1,17 +1,13 @@
 {
-  "heading": "La proporción de empleo en el sector turístico en la UE27 en 2019",
-  "subheading": "En toda la UE-27, hasta el 2,54 % de los empleados trabajan en los sectores turísticos seleccionados. Chipre lidera el ranking con un 9,15 %, mientras que Polonia, con tan solo un 1,01 %, presenta la menor proporción de empleados en dichos sectores.",
+  "heading": "La proporción de empleo en el sector turístico en la UE27 en 2021",
+  "subheading": "En toda la UE-27, hasta el 2,44 % de los empleados trabajan en los sectores turísticos seleccionados. Chipre lidera el ranking con un 7,7 %, mientras que Polonia, con tan solo un 1 %, presenta la menor proporción de empleados en dichos sectores.",
   "legend1": "No hay datos disponibles",
   "tooltip1": "del total de empleados",
   "textSourceDescription": "Fuente",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Nota",
-  "textNote": "Los datos cubren las siguientes actividades turísticas: Transporte aéreo, incluido el transporte de pasajeros y mercancías por aerolíneas; Alojamiento; y Agencias de viajes, operadores turísticos y otros servicios de reserva.",
+  "textNote": "Los datos abarcan las siguientes actividades turísticas: transporte aéreo, incluido el transporte de pasajeros y mercancías por aerolíneas, alojamiento, agencias de viajes, operadores turísticos y otros servicios de reserva. No se dispone de datos para Estonia, Luxemburgo, Países Bajos, Eslovenia ni Grecia.",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=es, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=es",
-  "textCountryClick": "Haga clic para más información",
-  "extraInfoText_EE": "No se dan valores para industrias turísticas seleccionadas",
-  "extraInfoText_FR": "sin transporte aéreo",
-  "extraInfoText_IE": "sin transporte aéreo",
-  "extraInfoText_PL": "sin transporte aéreo"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Industrias_turísticas_-_empleo",
+  "textCountryClick": "Haga clic para más información"
 }

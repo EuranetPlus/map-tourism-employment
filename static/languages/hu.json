@@ -1,17 +1,13 @@
 {
-  "heading": "A foglalkoztatás aránya a turisztikai ágazatban az EU27-ben 2019-ben",
-  "subheading": "Az EU27 teljes területén az összes alkalmazott 2,54%-a dolgozik a kiválasztott turisztikai ágazatokban. Ciprus vezet 9,15%-kal, Lengyelországban pedig a legalacsonyabb a kiválasztott turisztikai ágazatokban foglalkoztatottak aránya, mindössze 1,01%-kal.",
+  "heading": "A foglalkoztatás aránya a turisztikai ágazatban az EU27-ben 2021-ben",
+  "subheading": "Az EU27 teljes területén az összes alkalmazott 2,44%-a dolgozik a kiválasztott turisztikai ágazatokban. Ciprus vezet 7,7%-kal, Lengyelországban pedig a legalacsonyabb a kiválasztott turisztikai ágazatokban foglalkoztatottak aránya, mindössze 1%-kal.",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "az összes alkalmazottból",
   "textSourceDescription": "Forrás",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Az adatok a következő turisztikai tevékenységeket fedik le: légi közlekedés, beleértve a légitársaságok által végzett személy- és áruszállítást; szálláshely-szolgáltatás; valamint utazási irodák, utazásszervezők és egyéb foglalási szolgáltatások.",
+  "textNote": "Az adatok a következő turisztikai tevékenységeket fedik le: légi közlekedés, beleértve a légitársaságok által végzett személy- és áruszállítást, szállásadás, valamint utazási irodák, utazásszervezők és egyéb foglalási szolgáltatások. Észtország, Luxemburg, Hollandia, Szlovénia és Görögország esetében nem áll rendelkezésre adat.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Kattintson a további információkért",
-  "extraInfoText_EE": "nincsenek megadva értékek a kiválasztott turisztikai ágazatokra vonatkozóan",
-  "extraInfoText_FR": "légi közlekedés nélkül",
-  "extraInfoText_IE": "légi közlekedés nélkül",
-  "extraInfoText_PL": "légi közlekedés nélkül"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
+  "textCountryClick": "Kattintson a további információkért"
 }

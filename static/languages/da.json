@@ -1,17 +1,13 @@
 {
-  "heading": "Andelen af beskæftigelse i turistsektoren i EU27 i 2019",
-  "subheading": "I hele EU27 arbejder hele 2,54 % af alle ansatte i de udvalgte turistbrancher. Cypern fører an med 9,15 %, og Polen har med kun 1,01 % den laveste andel af ansatte i de udvalgte turistbrancher.",
+  "heading": "Andelen af beskæftigelse i turistsektoren i EU27 i 2021",
+  "subheading": "I hele EU27 arbejder hele 2,44 % af alle ansatte i de udvalgte turistbrancher. Cypern fører an med 7,7 %, og Polen har med kun 1 % den laveste andel af ansatte i de udvalgte turistbrancher.",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "af det samlede antal ansatte",
   "textSourceDescription": "Kilde",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Note",
-  "textNote": "Dataene dækker følgende turismeaktiviteter: Lufttransport, herunder passager- og fragttransport med flyselskaber; Indkvartering; og Rejsebureauer, rejsearrangører og andre reservationstjenester.",
+  "textNote": "Dataene dækker følgende turismeaktiviteter: Lufttransport, herunder passager- og fragttransport med flyselskaber, indkvartering og rejsebureauer, rejsearrangører og andre reservationstjenester. Ingen data angivet for Estland, Luxembourg, Holland, Slovenien og Grækenland.",
   "textDataAccess": "Få adgang til dataene",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Klik for mere information",
-  "extraInfoText_EE": "ingen værdier angivet for udvalgte turistbrancher",
-  "extraInfoText_FR": "uden lufttransport",
-  "extraInfoText_IE": "uden lufttransport",
-  "extraInfoText_PL": "uden lufttransport"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Turismeindustrier_-_beskæftigelse",
+  "textCountryClick": "Klik for mere information"
 }

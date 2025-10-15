@@ -1,17 +1,13 @@
 {
-  "heading": "Is-sehem tal-impjiegi fis-settur turistiku fl-UE27 fl-2019",
-  "subheading": "Fl-UE27 kollha, sa 2.54% tal-impjegati kollha jaħdmu fl-industriji tat-turiżmu magħżula. Ċipru tinsab fl-ewwel post b'9.15% u l-Polonja għandha l-inqas sehem ta' impjegati fl-industriji tat-turiżmu magħżula b'1.01% biss.",
+  "heading": "Is-sehem tal-impjiegi fis-settur turistiku fl-UE27 fl-2021",
+  "subheading": "Fl-UE27 kollha, sa 2.44% tal-impjegati kollha jaħdmu fl-industriji tat-turiżmu magħżula. Ċipru tinsab fl-ewwel post b'7.7% u l-Polonja għandha l-inqas sehem ta' impjegati fl-industriji tat-turiżmu magħżula b'1% biss.",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "tal-impjegati totali",
   "textSourceDescription": "Sors",
-  "textSource": "L-Eurostat",
+  "textSource": "L-Eurostat (2021)",
   "textNoteDescription": "Nota",
-  "textNote": "Id-dejta tkopri l-attivitajiet turistiċi li ġejjin: Trasport bl-ajru, inkluż it-trasport tal-passiġġieri u tal-merkanzija mil-linji tal-ajru; Akkomodazzjoni; u Aġenziji tal-ivvjaġġar, operaturi turistiċi u servizzi oħra ta’ prenotazzjoni.",
+  "textNote": "Id-dejta tkopri l-attivitajiet turistiċi li ġejjin: Trasport bl-ajru, inkluż trasport ta’ passiġġieri u merkanzija mil-linji tal-ajru, Akkomodazzjoni, u Aġenziji tal-Ivvjaġġar, operaturi turistiċi u servizzi oħra ta’ prenotazzjoni. Ma ngħatat l-ebda dejta għall-Estonja, il-Lussemburgu, l-Olanda, is-Slovenja u l-Greċja.",
   "textDataAccess": "Aċċessa d-dejta",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar tagħrif",
-  "extraInfoText_EE": "l-ebda valur ma ngħata għal industriji turistiċi magħżula",
-  "extraInfoText_FR": "mingħajr trasport bl-ajru",
-  "extraInfoText_IE": "mingħajr trasport bl-ajru",
-  "extraInfoText_PL": "mingħajr trasport bl-ajru"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

@@ -1,17 +1,13 @@
 {
-  "heading": "Het aandeel van de werkgelegenheid in de toeristische sector in de EU27 in 2019",
-  "subheading": "In de gehele EU27 is maar liefst 2,54% van alle werknemers werkzaam in de geselecteerde toeristische sectoren. Cyprus loopt voorop met 9,15% en Polen heeft met slechts 1,01% het laagste aandeel werknemers in de geselecteerde toeristische sectoren.",
+  "heading": "Het aandeel van de werkgelegenheid in de toeristische sector in de EU27 in 2021",
+  "subheading": "In de gehele EU27 is maar liefst 2,44% van alle werknemers werkzaam in de geselecteerde toeristische sectoren. Cyprus loopt voorop met 7,7% en Polen heeft met slechts 1% het laagste aandeel werknemers in de geselecteerde toeristische sectoren.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van het totale aantal werknemers",
   "textSourceDescription": "Bron",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Opmerking",
-  "textNote": "De gegevens hebben betrekking op de volgende toeristische activiteiten: Luchtvervoer, inclusief passagiers- en vrachtvervoer door luchtvaartmaatschappijen; Accommodatie; en Reisbureaus, touroperators en andere reserveringsdiensten.",
+  "textNote": "De gegevens hebben betrekking op de volgende toeristische activiteiten: luchtvervoer, inclusief passagiers- en vrachtvervoer door luchtvaartmaatschappijen, accommodatie, reisbureaus, touroperators en andere reserveringsdiensten. Er zijn geen gegevens beschikbaar voor Estland, Luxemburg, Nederland, Slovenië en Griekenland.",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Klik voor meer informatie",
-  "extraInfoText_EE": "geen waarden gegeven voor geselecteerde toerisme-industrieën",
-  "extraInfoText_FR": "zonder luchtvervoer",
-  "extraInfoText_IE": "zonder luchtvervoer",
-  "extraInfoText_PL": "zonder luchtvervoer"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Toeristische_industrieën_-_werkgelegenheid",
+  "textCountryClick": "Klik voor meer informatie"
 }

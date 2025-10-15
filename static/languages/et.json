@@ -1,17 +1,13 @@
 {
-  "heading": "Turismisektori tööhõive osakaal EL 27-s 2019. aastal",
-  "subheading": "Kogu EL 27-s töötab valitud turismisektorites koguni 2,54% kõigist töötajatest. Küpros on juhtival kohal 9,15%-ga ja Poola on vaid 1,01%-ga valitud turismisektorite töötajate madalaim osakaal.",
+  "heading": "Turismisektori tööhõive osakaal EL 27-s 2021. aastal",
+  "subheading": "Kogu EL 27-s töötab valitud turismisektorites koguni 2,44% kõigist töötajatest. Küpros on 7,7%-ga esirinnas ja Poola on vaid 1%-ga valitud turismisektorite töötajate madalaim osakaal.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "töötajate koguarvust",
   "textSourceDescription": "Allikas",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Märkus",
-  "textNote": "Andmed hõlmavad järgmisi turismitegevusi: õhutransport, sh reisijate- ja kaubavedu lennufirmade poolt; majutus; ning reisibürood, reisikorraldajad ja muud broneerimisteenused.",
+  "textNote": "Andmed hõlmavad järgmisi turismitegevusi: õhutransport, sh reisijate- ja kaubavedu lennufirmade poolt, majutus ning reisibürood, reisikorraldajad ja muud broneerimisteenused. Eesti, Luksemburgi, Madalmaade, Sloveenia ja Kreeka kohta andmed puuduvad.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Lisateabe saamiseks klõpsake",
-  "extraInfoText_EE": "valitud turismitööstuse kohta pole väärtusi esitatud",
-  "extraInfoText_FR": "ilma õhutranspordita",
-  "extraInfoText_IE": "ilma õhutranspordita",
-  "extraInfoText_PL": "ilma õhutranspordita"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Turismi_tööstused_-_employment",
+  "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

@@ -1,17 +1,13 @@
 {
-  "heading": "La quota di occupazione nel settore turistico nell'UE27 nel 2019",
-  "subheading": "Nell'intera UE-27, ben il 2,54% dei dipendenti è impiegato nei settori turistici selezionati. Cipro è leader con il 9,15%, mentre la Polonia, con solo l'1,01%, ha la quota più bassa di dipendenti nei settori turistici selezionati.",
+  "heading": "La quota di occupazione nel settore turistico nell'UE27 nel 2021",
+  "subheading": "Nell'intera UE-27, ben il 2,44% dei dipendenti è impiegato nei settori turistici selezionati. Cipro è leader con il 7,7%, mentre la Polonia, con solo l'1%, ha la quota più bassa di dipendenti nei settori turistici selezionati.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "del totale dei dipendenti",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Nota",
-  "textNote": "I dati riguardano le seguenti attività turistiche: trasporto aereo, compreso il trasporto passeggeri e merci da parte delle compagnie aeree; alloggio; agenzie di viaggio, tour operator e altri servizi di prenotazione.",
+  "textNote": "I dati riguardano le seguenti attività turistiche: trasporto aereo, incluso il trasporto passeggeri e merci da parte delle compagnie aeree, strutture ricettive, agenzie di viaggio, tour operator e altri servizi di prenotazione. Non sono disponibili dati per Estonia, Lussemburgo, Paesi Bassi, Slovenia e Grecia.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Clicca per maggiori informazioni",
-  "extraInfoText_EE": "nessun valore fornito per i settori turistici selezionati",
-  "extraInfoText_FR": "senza trasporto aereo",
-  "extraInfoText_IE": "senza trasporto aereo",
-  "extraInfoText_PL": "senza trasporto aereo"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

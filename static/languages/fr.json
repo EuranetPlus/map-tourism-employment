@@ -1,17 +1,13 @@
 {
-  "heading": "Part de l'emploi dans le secteur touristique dans l'UE27 en 2019",
-  "subheading": "Dans l'ensemble de l'UE-27, pas moins de 2,54 % des salariés travaillent dans les secteurs du tourisme sélectionnés. Chypre arrive en tête avec 9,15 %, tandis que la Pologne affiche la plus faible proportion de salariés dans les secteurs du tourisme sélectionnés, avec seulement 1,01 %.",
+  "heading": "Part de l'emploi dans le secteur touristique dans l'UE27 en 2021",
+  "subheading": "Dans l'ensemble de l'UE-27, pas moins de 2,44 % des salariés travaillent dans les secteurs du tourisme sélectionnés. Chypre arrive en tête avec 7,7 %, tandis que la Pologne affiche la plus faible proportion de salariés dans les secteurs du tourisme sélectionnés, avec seulement 1 %.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "du total des employés",
   "textSourceDescription": "Source",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Note",
-  "textNote": "Les données couvrent les activités touristiques suivantes : Transport aérien, y compris le transport de passagers et de fret par les compagnies aériennes ; Hébergement ; et Agences de voyages, voyagistes et autres services de réservation.",
+  "textNote": "Les données couvrent les activités touristiques suivantes : transport aérien, y compris le transport de passagers et de fret par les compagnies aériennes, hébergement, agences de voyages, voyagistes et autres services de réservation. Aucune donnée n'est fournie pour l'Estonie, le Luxembourg, les Pays-Bas, la Slovénie et la Grèce.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=fr, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=fr",
-  "textCountryClick": "Cliquez pour plus d'informations",
-  "extraInfoText_EE": "aucune valeur n'est donnée pour les industries touristiques sélectionnées",
-  "extraInfoText_FR": "sans transport aérien",
-  "extraInfoText_IE": "sans transport aérien",
-  "extraInfoText_PL": "sans transport aérien"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Industries_du_tourisme_-_emploi",
+  "textCountryClick": "Cliquez pour plus d'informations"
 }

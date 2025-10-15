@@ -1,17 +1,13 @@
 {
-  "heading": "A percentagem de emprego no setor turístico na UE27 em 2019",
-  "subheading": "Em toda a UE27, cerca de 2,54% de todos os empregados trabalham em setores turísticos selecionados. Chipre lidera com 9,15% e a Polônia tem a menor parcela de empregados nesses setores, com apenas 1,01%.",
+  "heading": "A percentagem de emprego no setor turístico na UE27 em 2021",
+  "subheading": "Em toda a UE27, cerca de 2,44% de todos os empregados trabalham em setores turísticos selecionados. Chipre lidera com 7,7% e a Polônia, com apenas 1%, tem a menor parcela de empregados nesses setores.",
   "legend1": "Nenhum dado disponível",
   "tooltip1": "do total de funcionários",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Observação",
-  "textNote": "Os dados abrangem as seguintes atividades turísticas: Transporte aéreo, incluindo transporte de passageiros e cargas por companhias aéreas; Acomodação; e Agências de viagens, operadores turísticos e outros serviços de reserva.",
+  "textNote": "Os dados abrangem as seguintes atividades turísticas: Transporte aéreo, incluindo transporte de passageiros e cargas por companhias aéreas, Hospedagem e Agências de viagens, operadoras de turismo e outros serviços de reserva. Não são fornecidos dados para Estônia, Luxemburgo, Holanda, Eslovênia e Grécia.",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Clique para mais informações",
-  "extraInfoText_EE": "nenhum valor fornecido para indústrias de turismo selecionadas",
-  "extraInfoText_FR": "sem transporte aéreo",
-  "extraInfoText_IE": "sem transporte aéreo",
-  "extraInfoText_PL": "sem transporte aéreo"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Indústrias_do_turismo_-_emprego",
+  "textCountryClick": "Clique para mais informações"
 }

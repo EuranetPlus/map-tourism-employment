@@ -1,17 +1,13 @@
 {
-  "heading": "Udio zaposlenosti u turističkom sektoru u EU27 u 2019. godini",
-  "subheading": "U cijeloj EU27 čak 2,54% svih zaposlenika radi u odabranim turističkim industrijama. Cipar prednjači s 9,15%, a Poljska ima sa samo 1,01% najniži udio zaposlenih u odabranim turističkim industrijama.",
+  "heading": "Udio zaposlenosti u turističkom sektoru u EU27 u 2021. godini",
+  "subheading": "U cijeloj EU27 čak 2,44% svih zaposlenika radi u odabranim turističkim industrijama. Cipar prednjači sa 7,7%, a Poljska ima sa samo 1% najniži udio zaposlenih u odabranim turističkim industrijama.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "od ukupnog broja zaposlenika",
   "textSourceDescription": "Izvor",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021.)",
   "textNoteDescription": "Bilješka",
-  "textNote": "Podaci obuhvaćaju sljedeće turističke aktivnosti: zračni prijevoz, uključujući putnički i teretni prijevoz zrakoplovnim tvrtkama; smještaj; i putničke agencije, turoperatore i ostale usluge rezervacija.",
+  "textNote": "Podaci obuhvaćaju sljedeće turističke aktivnosti: zračni prijevoz, uključujući putnički i teretni prijevoz zrakoplovnim tvrtkama, smještaj te putničke agencije, turoperatore i ostale usluge rezervacija. Nema podataka za Estoniju, Luksemburg, Nizozemsku, Sloveniju i Grčku.",
   "textDataAccess": "Pristup podacima",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
-  "textCountryClick": "Kliknite za više informacija",
-  "extraInfoText_EE": "nisu navedene vrijednosti za odabrane turističke industrije",
-  "extraInfoText_FR": "bez zračnog prijevoza",
-  "extraInfoText_IE": "bez zračnog prijevoza",
-  "extraInfoText_PL": "bez zračnog prijevoza"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
+  "textCountryClick": "Kliknite za više informacija"
 }
