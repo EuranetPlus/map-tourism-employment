@@ -1,13 +1,13 @@
 {
-  "heading": "The share of employment in the touristic sector in the EU27 in 2019",
-  "subheading": "In the entire EU27 as much as 2.54% of all employees are working in the selected tourism industries. Cyprus is leading with 9.15% and Poland has with only 1.01% the lowest share of employees in the selected tourism industries.",
+  "heading": "The share of employment in the touristic sector in the EU27 in 2021",
+  "subheading": "In the entire EU27 as much as 2.44% of all employees are working in the selected tourism industries. Cyprus is leading with 7.7% and Poland has with only 1% the lowest share of employees in the selected tourism industries.",
   "legend1": "No data available",
   "tooltip1": "of total employees",
   "textSourceDescription": "Source",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2021)",
   "textNoteDescription": "Note",
-  "textNote": "The data cover the following tourism activities: Air transport, including passenger and freight transport by airlines; Accommodation ; and Travel agencies, tour operators and other reservation services.",
+  "textNote": "The data cover the following tourism activities: Air transport, including passenger and freight transport by airlines, Accommodation, and Travel agencies, tour operators and other reservation services. No data given for Estonia, Luxembourg, Netherlands, Slovenia and Greece.",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sbs_na_sca_r2/default/table?lang=en, https://ec.europa.eu/eurostat/databrowser/view/sbs_na_1a_se_r2/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_industries_-_employment",
   "textCountryClick": "Click for more info"
 }
